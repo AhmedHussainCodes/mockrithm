@@ -69,9 +69,6 @@ const email = userData?.email || "candidate@example.com";
   Evaluate the candidate’s responses **objectively** and **professionally**. Assign a score from 0 to 100 for each category and include a **detailed explanation** justifying the score. Highlight areas for improvement in a constructive manner.
   ,
 });
-is this possible to make this simple but very for if the user dont provided any information so i ai give zero on also that if if not connected the microphone also so is this possible
-
-
 
 const feedback = {
   interviewId,
